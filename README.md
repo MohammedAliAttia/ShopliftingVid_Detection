@@ -228,9 +228,6 @@ MIT License - see LICENSE file for details
 - Transformer implementation based on "Attention is All You Need"
 - Video preprocessing techniques from TSN and TSM papers
 
-## Contact
-
-For questions or issues, please open a GitHub issue or contact [your-email@example.com]
 
 ## Future Improvements
 
@@ -250,4 +247,5 @@ For questions or issues, please open a GitHub issue or contact [your-email@examp
   - CNN-RNN hybrid model
   - Transformer-based model
   - Complete data pipeline
+
   - Comprehensive evaluation tools
